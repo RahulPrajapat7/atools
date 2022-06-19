@@ -14,6 +14,18 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+
+### `cd backend` then 
+### `npm start`
+
+Runs the backend of the app in the development mode.\
+Open [http://localhost:5000](http://localhost:5000) to view it in your browser.
+
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
+
+Note: you  have to start both backend and frontend individually with the help of npm start.
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
